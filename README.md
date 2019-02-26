@@ -16,4 +16,6 @@ Question 4. Is it possible to make extremely high profit movies with low budget?
 
 Question 5: What are the top 10 rated movies? and how is their profitibility?
 
+Highlight includes multiple ways for data visualization, and analyzing data with character like "|".
+
 Original data is collected from TMDb, and was organized by Udacity as part of their Data Analysis Degree Program.
