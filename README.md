@@ -19,3 +19,5 @@ Question 5: What are the top 10 rated movies? and how is their profitibility?
 Highlight includes multiple ways for data visualization, and analyzing data with character like "|".
 
 Original data is collected from TMDb, and was organized by Udacity as part of their Data Analysis Degree Program.
+
+This Project is created by Lu Tang
