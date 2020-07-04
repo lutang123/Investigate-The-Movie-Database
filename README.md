@@ -21,3 +21,5 @@ Highlight includes analyzing movie geners data with character like "|" and calcu
 Original data is collected from TMDb, and was organized by Udacity as part of their Data Analysis Degree Program.
 
 This Project is created by Lu Tang
+
+#### Links for code and analysis result: <a href="https://nbviewer.jupyter.org/github/lutang123/Investigate-The-Movie-Database/blob/master/Project_%20Investigate%20The%20Movie%20Database%20%28TMDb%29.ipynb">Investigate The Movie Database</a> 
